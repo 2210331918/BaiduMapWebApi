@@ -7,7 +7,6 @@ BaiduMapWebApi
 $map = new Baidu_map();
 
 #支持方法
-**
-place()
-**
-检索PIO数据
+place() 检索PIO数据
+locationip() 普通IP定位
+highacciploc() 高精度IP定位
