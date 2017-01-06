@@ -27,7 +27,6 @@ class Baidu_map {
 	private 	$coding = 'utf-8';//返回编码类型utf-8 or gbk
 	private $url = 'https://api.map.baidu.com/';
 
-
 	/**
 	 * POI数据
 	 * @param  integer $type       [0:默认通过城市检索][1:通过坐标圆点&半径检索][3:通过矩形框检索]
